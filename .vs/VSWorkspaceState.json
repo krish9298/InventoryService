@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\InventoryService",
+    "\\InventoryService\\Controllers"
   ],
-  "SelectedNode": "\\InventoryService.sln",
+  "SelectedNode": "\\InventoryService\\Controllers\\InventoryController.cs",
   "PreviewInSolutionExplorer": false
 }
