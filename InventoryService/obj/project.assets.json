@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vamsikrishna.y\\Desktop\\WebAPI\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectUniqueName": "C:\\Users\\Vamsikrishna.y\\Desktop\\InventoryService\\InventoryService\\InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "C:\\Users\\Vamsikrishna.y\\Desktop\\WebAPI\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectPath": "C:\\Users\\Vamsikrishna.y\\Desktop\\InventoryService\\InventoryService\\InventoryService.csproj",
       "packagesPath": "C:\\Users\\Vamsikrishna.y\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vamsikrishna.y\\Desktop\\WebAPI\\InventoryService\\InventoryService\\obj\\",
+      "outputPath": "C:\\Users\\Vamsikrishna.y\\Desktop\\InventoryService\\InventoryService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
