@@ -18,6 +18,7 @@ namespace InventoryService.Controllers
         {
             _services = services;
         }
+        [LogFilterPost]
         [HttpPost]
         [Route("AddInventoryItems")]
         public ActionResult<InventoryItems> AddInventoryItems(InventoryItems items) {
@@ -29,7 +30,7 @@ namespace InventoryService.Controllers
 
             return inventoryItems;
         }
-
+        [LogFilterGet]
         [HttpGet]
         [Route("GetInventoryItems")]
         public ActionResult<Dictionary<string, InventoryItems>> GetInventoryItems()
