@@ -1,1 +1,1 @@
-# InventoryService
+POC project
